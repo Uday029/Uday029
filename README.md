@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uday029
 - 👀 I’m interested in techanical skills 
-- 🌱 I’m currently learning python,Html,Javascript,css
+- 🌱 I’m currently learning python,Html,Javascript,css,SQL,C LANGUAGE
 - 💞️ I’m looking to collaborate on computer skills
 - 📫 How to reach me at top
 
